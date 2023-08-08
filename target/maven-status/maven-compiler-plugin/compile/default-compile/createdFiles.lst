@@ -1,0 +1,4 @@
+com\gisiona\serviceuploadarquivos3\config\StorageS3Config.class
+com\gisiona\serviceuploadarquivos3\service\StorageS3Service.class
+com\gisiona\serviceuploadarquivos3\controller\UploadArquivoS3Controller.class
+com\gisiona\serviceuploadarquivos3\ServiceUploadArquivoS3Application.class
